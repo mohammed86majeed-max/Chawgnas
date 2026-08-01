@@ -1,0 +1,6 @@
+{
+  "appId": "com.chawgnas.app",
+  "appName": "چاوگناس",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
